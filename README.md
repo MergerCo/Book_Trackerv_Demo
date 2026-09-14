@@ -2,5 +2,5 @@
 
 📚 Book Tracker | Digital Reading Journal & Library Template
 
-Versión Demo de un planeador de lectura. Rastrea tus lecturas, retos y sagas con estilo. 
+Versión Demo de un planeador de lectura. Rastrea tus lecturas, retos y sagas de forma personalizada. 
 Funciona sin instalar nada. Tus datos, tus reglas. Descarga instantánea.
